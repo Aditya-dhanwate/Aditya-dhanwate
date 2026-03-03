@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aditya Dhanwate!  
 
-🎓 B.Tech CSE (Cybersecurity) student | 💻 Python | C/C++ | 
+🎓 B.Tech CSE (Cybersecurity) student | 💻 Python | C/C++ |
 🔐 Passionate about building secure
 🌱 Currently learning: Ai models and Cybersecurity tools  
 
