@@ -16,7 +16,7 @@
 ## 🚀 Projects  
 
 ### 🔹 [Attendance System Project](#)  
-Easy use of tech and IOT in daily classes
+Easy use of tech and IOT in daily classes.
 **Features:**  
 - Easy to use   
 - No use of physical Attendance Register  
